@@ -2,7 +2,7 @@
 Создайте свой собственный API с легкостью.
 ![изображение](https://i.imgur.com/upR5GuS.png)
 
-## Простая настройка
+## настройка апи
 
 ```js
 import { API } from "easy-api.ts"; //используйте 'const { API } = require("easy-api.ts")' для JavaScript
