@@ -2,9 +2,9 @@
 
 - **Getting started**
 
-* [Home](/)
-* [Tips](tips.md)
-* [Escapers](escapers.md)
+* [Начало](/)
+* [Советы](tips.md)
+* [Символы](escapers.md)
 
 - **Functions**
 
