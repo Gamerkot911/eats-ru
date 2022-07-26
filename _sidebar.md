@@ -1,12 +1,12 @@
 <!-- docs/_sidebar.md -->
 
-- **Getting started**
+- **начальные страницы**
 
 * [Начало](/)
 * [Советы](tips.md)
 * [Символы](escapers.md)
 
-- **Functions**
+- **функции**
 
 * [$break](functions/$break.md)
 * [$charCount](functions/$charCount.md)
