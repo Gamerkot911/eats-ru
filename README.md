@@ -1,4 +1,4 @@
-# EASY-API.TS
+### EASY-API.TS
 Создайте свой собственный API с легкостью.
 ![изображение](https://i.imgur.com/upR5GuS.png)
 
